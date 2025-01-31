@@ -7,6 +7,13 @@
 - 📫 How to reach me: ... 𝕏@imaybeghost || LinkedIn: _____  || email: ________
 
 - ⚡ Fun fact: ... I have participated in bunch of auditcontests ::::: -----> edit laters
+
+<!-- 
+Inspiration:
+- https://github.com/namx05
+- https://cantina.xyz/u/J4X98
+-->
+  
 <!--
 **burhankhaja/burhankhaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
