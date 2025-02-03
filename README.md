@@ -1,13 +1,16 @@
 ## Hi there 👋
-- ⛓️ **Until Feb 11, working on the Silo Finance formal verification contest on Cantina.**
-- 🔭 I’m currently working on ... solidity and rust audit competitions 
-- 🌱 I’m currently learning ... solana development using native rust and anchor framework
-- 👯 I’m looking to collaborate on ... development and audit projects
-- 💬 Ask me about ... solidity, formal verification (solidity), rust, solana development, anchor framework, ethers.js and solana/web3.js
-- 😄 Pronouns: ... u32 / int128
+_🌱 I'm web3 security researcher, specializing in solidity and rust. My solidity skills are advance while Im sharping rust skills day by day as im currently learning solana development using native rust and anchor framework. For auditing solidity contracts, I specialize in foundry framework for unit tests, certora prover for formal verification and a sharp eye to detect bugs using manual verification and also other easy stuff too like using those automatic scannerls like slither etc too._
+
+_These days i keep juggling rust and solidity audit contests as many as i could and until Feb 11 i am working on Silo Finance formal verification contest held on cantina_
+
+_I would love to collaborate on development and audit especially solidity ones_
+
+<!--_💬 Ask me about ... solidity, formal verification (solidity), rust, auditing, solana development, anchor framework, ethers.js and solana/web3.js_ -->
+
+- You can easily measure my passion for blockchain technologies by my pronouns, which are u32 / int128 And i identify as compiler 😄
 - 📫 How to reach me: ... 𝕏@imaybeghost || LinkedIn: _____  || email: ________
 
-- ⚡ Fun fact: ... I have participated in bunch of auditcontests ::::: -----> edit laters
+### ⚡ **Portfolio**
 
 <!-- 
 Inspiration:
