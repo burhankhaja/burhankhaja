@@ -1,4 +1,5 @@
 ## Hi there 👋
+- ⛓️ **Until Feb 11, working on the Silo Finance formal verification contest on Cantina.**
 - 🔭 I’m currently working on ... solidity and rust audit competitions 
 - 🌱 I’m currently learning ... solana development using native rust and anchor framework
 - 👯 I’m looking to collaborate on ... development and audit projects
