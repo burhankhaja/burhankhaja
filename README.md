@@ -1,7 +1,7 @@
 ## Hi there 👋
 _I'm web3 security researcher, specializing in solidity and rust. My solidity skills are advance while Im sharping rust skills day by day as im currently learning solana development using native rust and anchor framework._ 
 
-_For auditing solidity contracts, I specialize in foundry framework for unit tests, certora prover for formal verification and a sharp eye to detect bugs using manual verification and also other easy stuff too like using those automatic scannerls like slither etc too._
+_For auditing solidity contracts, I specialize in foundry framework for unit tests, certora prover for formal verification and a sharp eye to detect bugs by manual code review and I can easily use slither like automatic scanner tools too_
 
 _These days i keep juggling rust and solidity audit contests as many as i could and until Feb 11 i am working on Silo Finance formal verification contest held on cantina_
 
