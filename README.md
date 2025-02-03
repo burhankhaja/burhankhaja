@@ -3,7 +3,7 @@ _🌱 I'm web3 security researcher, specializing in solidity and rust. My solidi
 
 _These days i keep juggling rust and solidity audit contests as many as i could and until Feb 11 i am working on Silo Finance formal verification contest held on cantina_
 
-_I would love to collaborate on development and audit especially solidity ones_
+_I would love to collaborate on development and audit projects especially solidity ones_
 
 <!--_💬 Ask me about ... solidity, formal verification (solidity), rust, auditing, solana development, anchor framework, ethers.js and solana/web3.js_ -->
 
