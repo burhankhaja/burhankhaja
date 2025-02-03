@@ -7,7 +7,7 @@ _I would love to collaborate on development and audit projects especially solidi
 
 <!--_💬 Ask me about ... solidity, formal verification (solidity), rust, auditing, solana development, anchor framework, ethers.js and solana/web3.js_ -->
 
-- You can easily measure my passion for blockchain technologies by my pronouns, which are u32 / int128 and the crazy part is that i identify as a compiler 😄
+- You can easily measure my passion for blockchain technologies by my pronouns, which are u32 / int128 and the crazy part is that i identify as a bi-compiler 😄
 - 📫 How to reach me: ... 𝕏@imaybeghost || LinkedIn: _____  || email: ________
 
 ### ⚡ **Portfolio**
