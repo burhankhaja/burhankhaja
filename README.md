@@ -3,7 +3,7 @@ _I'm web3 security researcher, specializing in solidity and rust. My solidity sk
 
 _For auditing solidity contracts, I specialize in foundry framework for unit tests, certora prover for formal verification and a sharp eye to detect bugs by manual code review and I can easily use slither like automatic scanner tools too_
 
-_These days i keep juggling rust and solidity audit contests as many as i could and until Feb 11 i am working on Silo Finance formal verification contest held on cantina_
+_These days i keep juggling rust and solidity audit contests as many as i could and am always open for the job oportunities_
 
 _I would love to collaborate on development and audit projects especially solidity ones_
 
