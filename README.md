@@ -12,7 +12,7 @@ _I would love to collaborate on development and audit projects especially solidi
 _**Warning:**_ _You can easily measure my passion for blockchain technologies by my pronouns, which are u32 / int128 and the crazy part is that i identify as a bi-compiler 😄_
 
 _**📫 reach me:**_ 
-- 𝕏@imaybeghost
+- 𝕏@_ghostbytes
 - LinkedIn: _____
 - email: ________
 
