@@ -25,7 +25,7 @@ _**Warning:**_ _You can easily measure my passion for blockchain technologies by
 _**📫 reach me:**_ 
 - 𝕏@_ghostbytes
 - email: imaybeghost@gmail.com
-// - LinkedIn: _____
+<!-- // - LinkedIn: _____ -->
 
 <!--
 ### ⚡ **Portfolio**
