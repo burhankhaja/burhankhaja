@@ -1,5 +1,5 @@
 ## Hi there 👋
-_Smart contract developer and auditor specializing in Solana (Rust, Pinocchio and Anchor Framework) and EVM (Solidity, Foundry, Hardhat). Experienced in manual auditing and formal verification, with multiple contributions to open-source frameworks. Skilled at building decentralized applications, improving protocol security, and verifying complex DeFi primitives._
+_**Smart contract developer** and **auditor** specializing in Solana (Rust, Pinocchio and Anchor Framework) and EVM (Solidity, Foundry, Hardhat). Experienced in manual auditing and formal verification, with multiple contributions to open-source frameworks. Skilled at building decentralized applications, improving protocol security, and verifying complex DeFi primitives._
 
 <!--_💬 Ask me about ... solidity, formal verification (solidity), rust, auditing, solana development, anchor framework, ethers.js and solana/web3.js_ -->
 <!--
@@ -8,7 +8,7 @@ _**Warning:**_ _You can easily measure my passion for blockchain technologies by
 
 <hr>
 
-### Skills
+### 🛠️ Skills
 **_SVM:_**
 - _Rust, Pinocchio Framework, Anchor Framework, Native development, TypeScript, anchor-bankrun, solana-test-validator, LiteSVM, Formal Verification (Certora) , web3.js_
 
@@ -17,7 +17,7 @@ _**Warning:**_ _You can easily measure my passion for blockchain technologies by
 
 <hr>
 
-### Here is my CV
+### 📖 Here is my CV
 - [_Google_doc_](https://docs.google.com/document/d/1JyaBe5nPW6poPQGl-f6D2Kb-BzkVzD9wytDcCCGWZww/edit?tab=t.0)
   
 <hr>
