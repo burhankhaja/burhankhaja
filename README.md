@@ -23,7 +23,7 @@ _**Warning:**_ _You can easily measure my passion for blockchain technologies by
 <hr>
 
 _**📫 reach me:**_ 
-- 𝕏 : @_ghostbytes
+- 𝕏 : [@_ghostbytes](https://x.com/_ghostbytes)
 - email: imaybeghost@gmail.com
 <!-- // - LinkedIn: _____ -->
 
