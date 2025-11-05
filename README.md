@@ -18,7 +18,10 @@ _**Warning:**_ _You can easily measure my passion for blockchain technologies by
 <hr>
 
 ### 📖 Here is my CV
-- [_Google_doc_](https://docs.google.com/document/d/1JyaBe5nPW6poPQGl-f6D2Kb-BzkVzD9wytDcCCGWZww/edit?tab=t.0)
+
+<!-- - [_Google_doc_](https://docs.google.com/document/d/1JyaBe5nPW6poPQGl-f6D2Kb-BzkVzD9wytDcCCGWZww/edit?tab=t.0) -->
+
+- [_Google_doc_](https://docs.google.com/document/d/1E3HGj1Sydviu0WU0gJdshf5V53vud5cxWkxDephYGB0/edit?tab=t.0)
   
 <hr>
 
